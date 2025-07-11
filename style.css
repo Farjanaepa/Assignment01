@@ -4,6 +4,9 @@
     list-style-type: none;
     
 }
+body{
+    background: #f0f9fc;
+}
 
 .inter-normal {
   font-family: "Inter", sans-serif;
@@ -168,6 +171,12 @@
     display: flex;
     padding: 5px;
     gap: 15px;
+    color: #757575;
+    
+}
+.reviewer-img{
+    border-radius: 50%;
+    
 }
 
 /* get in touch */
